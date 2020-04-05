@@ -1,4 +1,4 @@
-My IB DP Computer Acience Repository
+My IB DP Computer Science Repository
 ======================================
 
 This is my repository to collect all the information and program developed during computer science course 2019-21
